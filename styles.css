@@ -1,6 +1,7 @@
 /*Principal*/
 body {
-    background-color: rgb(212, 201, 187);
+    background-image: url(https://img.pikbest.com/origin/10/12/90/059pIkbEsTXP6.jpg!w700wp);
+    background-size: cover;
 }
 div {
     align-items: center;
@@ -9,6 +10,7 @@ div {
 }
 code {
     padding-top: 25%;
+    color: azure;
 }
 
 /*Logo y slogan*/
@@ -21,6 +23,8 @@ code {
     align-items: center;
     display: flex;
     justify-content: center;
+    color: aliceblue;
+    font-family: 'Lucida Sans Unicide';
 }
 
 /*Cajas*/
