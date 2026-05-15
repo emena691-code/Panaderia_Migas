@@ -99,3 +99,22 @@ code {
         background-size: 100%;
             transform: scale(1.1);
 }
+
+/*Redes*/
+
+#facebook {
+    background-color: rgb(55, 55, 197);
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: aliceblue;
+    margin: 20px;
+    margin-top: 40px;
+}
+#instagram {
+    color: aliceblue;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;    
+    background-color: rgb(146, 55, 206);
+}
